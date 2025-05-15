@@ -85,9 +85,8 @@ sequenceDiagram
 | Component             | Description                                     |
 | --------------------- | ----------------------------------------------- |
 | **OIC Email Adapter** | Trigger and reply channel for invoice queries   |
-| **OCI Generative AI** | LLM-based intent detection and summarization    |
+| **OpenAI Generative AI** | LLM-based intent detection and summarization    |
 | **ERP Cloud Adapter** | Retrieves invoice and payment status            |
-| **REST Adapter**      | Connects to OCI GenAI endpoint                  |
 | **Integration Flow**  | Orchestrates all components in logical sequence |
 
 ---
